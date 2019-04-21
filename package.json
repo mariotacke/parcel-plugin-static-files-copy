@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "parcel-plugin-static-files-copy",
+  "name": "@mariotacke/parcel-plugin-static-files-copy",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/elwin013/parcel-plugin-static-files-copy.git"
